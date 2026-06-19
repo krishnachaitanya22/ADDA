@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/preparation-adda-demo.html" }
+  ]
+}
