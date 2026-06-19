@@ -1,6 +1,5 @@
 {
 "rewrites":[
-
-  { "source": "/(.*)", "destination":"/" }
+  { "source": "/(.*)", "destination":"preparation-adda-demo.html" }
 ]  
 }
